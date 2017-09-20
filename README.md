@@ -3,11 +3,11 @@ UbuntuJobCredit integration/staging tree
 
 http://www.ubuntujobcredit.org
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
-Copyright (c) 2014-2017 MauiCoin Developers
-Copyright (c) 2016-2017 AyuCoin Developers
-Copyright (c) 2017-2017 UbuntuJobCredit Developers
+- Copyright (c) 2009-2013 Bitcoin Developers
+- Copyright (c) 2011-2013 Litecoin Developers
+- Copyright (c) 2014-2017 MauiCoin Developers
+- Copyright (c) 2016-2017 AyuCoin Developers
+- Copyright (c) 2017-2017 UbuntuJobCredit Developers
 
 What is UbuntuJobCredit?
 ----------------
