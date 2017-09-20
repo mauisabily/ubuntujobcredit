@@ -9,13 +9,17 @@ Copyright (c) 2011-2013 Litecoin Developers
 
 Copyright (c) 2014-2017 MauiCoin Developers
 
+Copyright (c) 2016-2017 AyuCoin Developers
+
+Copyright (c) 2017-2017 UbuntuJobCredit Developers
+
 What is UbuntuJobCredit?
 ----------------
 
 UbuntuJobCredit is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - Halving at every 30,000 blocks (~2 years)
- - ~2,160,000 total coins
+ - Halving at 30,000 blocks (~2 years)
+ - 2,160,000 total coins
 
 The rest is the same as Bitcoin.
  - 36 coins per block
